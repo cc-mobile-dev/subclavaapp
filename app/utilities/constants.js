@@ -1,0 +1,1 @@
+export const mapLogoIcon = 'https://clava.s3.us-east-2.amazonaws.com/map-logo.png'

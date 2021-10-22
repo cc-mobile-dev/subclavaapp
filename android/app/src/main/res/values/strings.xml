@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clava</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">1MQG5UD7DTstwumb6qm7Fb-MaunEpFlvlmYIU</string>
+</resources>
